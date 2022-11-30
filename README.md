@@ -1,4 +1,4 @@
-# Terraform Module to Deploy Nomad-Ready VMs on Nutanix
+# Terraform No-Code Module to Deploy Nomad-Ready VMs on Nutanix
 
 Deploy Ubuntu 22.04.1 LTS
 
