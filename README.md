@@ -1,1 +1,1 @@
-# tf_nutanix_nomad_vms
+# Terraform Module to deploy Nomad-Ready VMs on Nutanix
