@@ -13,7 +13,12 @@ vDisk: 100G
 
 
 Applications installed:
+
+
 -Docker
+
+
 -CIFS Utils
+
 
 Centralized Storage Mounted
